@@ -1,7 +1,6 @@
 # 한시간만에 AWS 머신러닝 서비스 따라잡기&#x20;
 
-If you haven't already, give that `CMD + K` (`CTRL + K` on Windows) shortcut a little tap.
 
-Cool, right? This is our quick find palette, and it's super useful if you need to jump between content quickly.
+이 영상에서는 머신 러닝으로 해결 할 수 있는 문제 유형을 설명 드리고, 이러한 문제를 해결할 때 필요한 머신 러닝 알고리즘의 개념과 기본 원리를 설명합니다. 특히, 머신 러닝을 처음 시작하시는 분들에 필요한 주요 개념을 소개합니다. AWS에서는 고객들의 AI/ML 워크로드를 지원하기 위해 다양한 서비스를 제공하고 있습니다. 영상을 통해 우리 서비스에 적용할 수 있는 문제 유형을 정의하시고 AWS에서 AI/ML을 시작해보세요. 
 
-If this is your first time using GitBook, you probably don't have a whole bunch of content right now. Once you start filling it with spaces and collections and all the wonderful content you're creating, you're gonna need a quick way to navigate through it all. Quick find will let you search for spaces, pages and content within pages; and navigate directly to them with a few keypresses. Get used to that shortcut!
+
