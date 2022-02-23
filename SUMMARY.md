@@ -13,13 +13,16 @@
 
 ## 모바일
 
-* [Amplify로 모바일 앱에서 백엔드를 한번에 ](undefined/amplify.md)
+* [Amplify로 모바일 앱에서 백엔드를 한번에](undefined/amplify.md)
+* [Page 2](undefined/page-2.md)
+
+## 데이터 분석 <a href="#analytics" id="analytics"></a>
+
+* [서버리스 데이터 분석](analytics/analytics.md)
 
 ## AWS AI / ML 활용하기
 
-* [한시간만에 AWS 머신러닝 서비스 따라잡기 ](aws-ai-ml/aws.md)
-* [📊 Analytics](aws-ai-ml/analytics.md)
-* [Page 1](aws-ai-ml/page-1.md)
+* [한시간만에 AWS 머신러닝 서비스 따라잡기](aws-ai-ml/aws.md)
 
 ## Next steps
 
