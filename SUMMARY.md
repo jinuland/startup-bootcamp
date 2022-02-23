@@ -18,7 +18,7 @@
 
 ## 데이터 분석 <a href="#analytics" id="analytics"></a>
 
-* [서버리스 데이터 분석](analytics/analytics.md)
+* [서버리스 데이터 분석](aws-ai-ml/analytics.md)
 
 ## AWS AI / ML 활용하기
 
