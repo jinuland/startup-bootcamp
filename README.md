@@ -10,14 +10,14 @@ AWS 기초부터 서버리스, 컨테이너, CI/CD, IaC 등 다양한 것을 얻
 
 
 
-| Day 1 |                                    |      |                                                     |   |
-| ----- | ---------------------------------- | ---- | --------------------------------------------------- | - |
-|       | AWS Basics for Developer           | 1.5h | [Sungmin Kim](https://quip-amazon.com/PIH9EAXPXS1)  |   |
-|       | Serverless (incl. lab)             | 4h   | [Chulwoo Choi](https://quip-amazon.com/KVM9EAvctlY) |   |
-|       | DevOps - CICD (incl. lab)          | 2.5h | [Jiyoung Lee](https://quip-amazon.com/EPd9EAm1By5)  |   |
-| Day 2 |                                    |      |                                                     |   |
-|       | DevOps - Observability (incl. lab) | 2h   | [Jinwoo Park](https://quip-amazon.com/bZG9EAc0AVi)  |   |
-|       | Container (incl. lab)              | 3h   | @newhire (support:leejiyou@)                        |   |
-|       | AWS Amplify                        | 1h   | [Jisoo Min](https://quip-amazon.com/bNC9EAaON7a)    |   |
-|       | Infrastructure as Code (incl. lab) | 2h   | [Chulwoo Choi](https://quip-amazon.com/KVM9EAvctlY) |   |
+| Day 1 |                                    |      |   |   |
+| ----- | ---------------------------------- | ---- | - | - |
+|       | AWS Basics for Developer           | 1.5h |   |   |
+|       | Serverless (incl. lab)             | 4h   |   |   |
+|       | DevOps - CICD (incl. lab)          | 2.5h |   |   |
+| Day 2 |                                    |      |   |   |
+|       | DevOps - Observability (incl. lab) | 2h   |   |   |
+|       | Container (incl. lab)              | 3h   |   |   |
+|       | AWS Amplify                        | 1h   |   |   |
+|       | Infrastructure as Code (incl. lab) | 2h   |   |   |
 
