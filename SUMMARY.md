@@ -1,6 +1,10 @@
 # Table of contents
 
-* [About Boot Camp](README.md)
+* [스타트업 부트캠프 사이트](README.md)
+
+## Startup Bootcamp 프로그램
+
+* [프로그램 소개](startup-bootcamp/undefined.md)
 
 ## 데이터 분석 <a href="#analytics" id="analytics"></a>
 
