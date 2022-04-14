@@ -10,14 +10,15 @@ AWS 기초부터 서버리스, 컨테이너, CI/CD, IaC 등 다양한 것을 얻
 
 TBU - 정확한 시간표 확정 후 업데이트
 
-| Day 1 | 주제                                                                  | 설명 |   |   |
-| ----- | ------------------------------------------------------------------- | -- | - | - |
-|       | [AWS Basics for Developer](aws-basics-for-developer.md)             |    |   |   |
-|       | [Serverless (incl. lab)](serverless.md)                             |    |   |   |
-|       | [DevOps - CICD (incl. lab)](devops-cicd.md)                         |    |   |   |
-| Day 2 |                                                                     |    |   |   |
-|       | [DevOps - Observability (incl. lab)](devops-observability.md)       | 2h |   |   |
-|       | [Container (incl. lab)](container.md)                               | 3h |   |   |
-|       | [AWS Amplify](aws-amplify.md)                                       | 1h |   |   |
-|       | [Infrastructure as Code (incl. lab)](infrastructure-as-code-cdk.md) | 2h |   |   |
+|           | 주제                                                                  | 설명 |   |   |
+| --------- | ------------------------------------------------------------------- | -- | - | - |
+| **Day 1** |                                                                     |    |   |   |
+|           | [AWS Basics for Developer](aws-basics-for-developer.md)             |    |   |   |
+|           | [Serverless (incl. lab)](serverless.md)                             |    |   |   |
+|           | [DevOps - CICD (incl. lab)](devops-cicd.md)                         |    |   |   |
+| **Day 2** |                                                                     |    |   |   |
+|           | [DevOps - Observability (incl. lab)](devops-observability.md)       |    |   |   |
+|           | [Container (incl. lab)](container.md)                               |    |   |   |
+|           | [AWS Amplify](aws-amplify.md)                                       |    |   |   |
+|           | [Infrastructure as Code (incl. lab)](infrastructure-as-code-cdk.md) |    |   |   |
 
