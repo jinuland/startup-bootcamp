@@ -2,9 +2,16 @@
 
 * [스타트업 부트캠프 사이트](README.md)
 
-## 서비스 개발
+## Essential
 
-* [프로그램 소개](undefined/undefined.md)
+* [프로그램 소개](essential/undefined.md)
+* [AWS Basics for Developer](essential/aws-basics-for-developer.md)
+* [Serverless](essential/serverless.md)
+* [DevOps - CICD](essential/devops-cicd.md)
+* [DevOps - Observability](essential/devops-observability.md)
+* [Container](essential/container.md)
+* [AWS Amplify](essential/aws-amplify.md)
+* [Infrastructure as Code - CDK](essential/infrastructure-as-code-cdk.md)
 
 ## 데이터 분석 <a href="#analytics" id="analytics"></a>
 
@@ -12,4 +19,4 @@
 
 ## 머신러닝
 
-* [한시간만에 AWS 머신러닝 서비스 따라잡기](undefined-1/aws.md)
+* [한시간만에 AWS 머신러닝 서비스 따라잡기](undefined/aws.md)
