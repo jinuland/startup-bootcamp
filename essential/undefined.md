@@ -19,6 +19,6 @@ TBU - 정확한 시간표 확정 후 업데이트
 | **Day 2** |                                                                     |    |   |   |
 |           | [DevOps - Observability (incl. lab)](devops-observability.md)       |    |   |   |
 |           | [Container (incl. lab)](container.md)                               |    |   |   |
-|           | [AWS Amplify](aws-amplify.md)                                       |    |   |   |
+|           | [AWS Amplify](broken-reference)                                     |    |   |   |
 |           | [Infrastructure as Code (incl. lab)](infrastructure-as-code-cdk.md) |    |   |   |
 

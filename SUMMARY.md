@@ -10,7 +10,6 @@
 * [DevOps - CICD](essential/devops-cicd.md)
 * [DevOps - Observability](essential/devops-observability.md)
 * [Container](essential/container.md)
-* [AWS Amplify](essential/aws-amplify.md)
 * [Infrastructure as Code - CDK](essential/infrastructure-as-code-cdk.md)
 
 ## 데이터 분석 <a href="#analytics" id="analytics"></a>
