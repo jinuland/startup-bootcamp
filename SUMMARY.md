@@ -7,9 +7,9 @@
 * [프로그램 소개](essential/undefined.md)
 * [AWS Basics for Developer](essential/aws-basics-for-developer.md)
 * [Serverless](essential/serverless.md)
+* [Container](essential/container.md)
 * [DevOps - CICD](essential/devops-cicd.md)
 * [DevOps - Observability](essential/devops-observability.md)
-* [Container](essential/container.md)
 * [Infrastructure as Code - CDK](essential/infrastructure-as-code-cdk.md)
 
 ## 데이터 분석 <a href="#analytics" id="analytics"></a>
