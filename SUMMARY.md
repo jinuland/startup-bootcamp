@@ -4,7 +4,8 @@
 
 ## Essential
 
-* [프로그램 소개](essential/undefined.md)
+* [과정/프로그램 소개](essential/undefined.md)
+* [AWS 기본 서비스 배우기](essential/aws.md)
 * [AWS Basics for Developer](essential/aws-basics-for-developer.md)
 * [Serverless](essential/serverless.md)
 * [Container](essential/container.md)
