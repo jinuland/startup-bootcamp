@@ -4,9 +4,9 @@
 
 ## Essential
 
-* [과정/프로그램 소개](essential/undefined.md)
-* [AWS 기본 서비스 배우기](essential/aws.md)
-* [AWS Basics for Developer](essential/aws-basics-for-developer.md)
+* [Bootcamp Essential 과정 소개](essential/bootcamp-essential.md)
+* [AWS Core Services](essential/aws-core-services.md)
+* [AWS Basic for Developer](essential/aws-basic-for-developer.md)
 * [Serverless](essential/serverless.md)
 * [Container](essential/container.md)
 * [DevOps - CICD](essential/devops-cicd.md)
@@ -19,4 +19,4 @@
 
 ## 머신러닝
 
-* [한시간만에 AWS 머신러닝 서비스 따라잡기](undefined/aws.md)
+* [한시간만에 AWS 머신러닝 따라잡기](undefined/aws.md)
