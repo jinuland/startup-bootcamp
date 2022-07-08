@@ -5,9 +5,9 @@ AWS Startup Bootcamp 마지막 시간으로는 Infrastructure as Code 에서 CDK
 * 인프라를 코드로 관리하기 개념
 * CDK 사용해서 인프라/서버리스 애플리케이션 작성/배포하기
 
-### 1. CDK 기본
+### 1. CDK 세션
 
-{% embed url="https://youtu.be/laxrgA_sQH0" %}
+{% embed url="https://youtu.be/K0mil4G324c" %}
 
 ### 2. CDK 실습
 
@@ -16,7 +16,3 @@ AWS Startup Bootcamp 마지막 시간으로는 Infrastructure as Code 에서 CDK
 * [CDK 실습 Link](https://cdk-korean-v1.d3teb0b13vz8ds.amplifyapp.com)
 
 본 과정에서는 실습을 Writing constructs 까지 진행합니다. 하지만 실습 전체를 진행하시면 CDK에 대해 보다 많은 부분을 경험해보실 수 있습니다.
-
-### 3. More about CDK&#x20;
-
-{% embed url="https://youtu.be/kX_SEjrrktU" %}

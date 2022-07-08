@@ -11,7 +11,7 @@ Serverless 서비스를 활용하면 보다 빠르게, 효율적으로 시스템
 
 ### 1. Serverless&#x20;
 
-{% embed url="https://youtu.be/DiLRig6xIgg" %}
+{% embed url="https://youtu.be/Y6U8Y2gnHkc" %}
 
 ### 2. Serverless 실습
 
