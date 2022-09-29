@@ -1,4 +1,4 @@
-# Page 1
+# Amazon SageMaker 고급 과정
 
 Amazon SageMaker Advanced Sessions
 
