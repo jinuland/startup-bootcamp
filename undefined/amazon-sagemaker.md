@@ -1,14 +1,18 @@
-# Amazon SageMaker 고급 과정
+# Amazon SageMaker 단기 집중 과정
 
-Amazon SageMaker Advanced Sessions
+### ML 기초 개념 및 Amazon SageMaker를 활용한 ML 서비스 개
 
-|              Title              | Duration | Link                                                                                                                                                                                                                                                                                                                                                                                                 |
-| :-----------------------------: | :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    Amazon SageMaker 모델 학습 방법    |    1hr   | [https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s1-sagemaker-model-training-introduction ](https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s1-sagemaker-model-training-introduction)                                                                                                                                            |
-|    Amazon SageMaker 모델 배포 방법    |    1hr   | [https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s2-sagemaker-model-deploy-introduction ](https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s2-sagemaker-model-deploy-introduction)                                                                                                                                                |
-|   Amazon SageMaker 모델 빌딩 파이프라인  |    1hr   | [https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s3-sagemaker-model-building-pipeline ](https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s3-sagemaker-model-building-pipeline)                                                                                                                                                    |
-|    Amazon SageMaker 전체 실습 소개    |   0.5hr  | <p><a href="https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s4-sagemaker-hands-on-workshop">https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s4-sagemaker-hands-on-workshop</a><br><br>(실습용 소스 코드)<br><a href="https://github.com/aws-samples/aws-ai-ml-workshop-kr">https://github.com/aws-samples/aws-ai-ml-workshop-kr</a></p> |
-|    Amazon SageMaker 모델 학습 실습    |    1hr   | [https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s5-sagemaker-model-training-handson-lab ](https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s5-sagemaker-model-training-handson-lab)                                                                                                                                              |
-|    Amazon SageMaker 모델 배포 실습    |    1hr   | [https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s6-sagemaker-model-deploy-handson-lab ](https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s6-sagemaker-model-deploy-handson-lab)                                                                                                                                                  |
-| Amazon SageMaker 모델 빌딩 파이프라인 실습 |    1hr   | [https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s7-sagemaker-model-building-pipeline-handson-lab ](https://kr-resources.awscloud.com/aws-ai-and-machinelearning/aiml-special-webinar-s7-sagemaker-model-building-pipeline-handson-lab)                                                                                                                            |
+|                                      Title                                     | Duration |                              Link                              |
+| :----------------------------------------------------------------------------: | :------: | :------------------------------------------------------------: |
+|                       Tech Leader를 위한 AWS AI/ML 서비스 활용 전략                      |    1hr   |  [https://youtu.be/ntILAKM7jXw](https://youtu.be/ntILAKM7jXw)  |
+|                             1시간만에 AWS 머신러닝 서비스 따라잡기                            |    1hr   |  [https://youtu.be/cYI85HFgFeg](https://youtu.be/cYI85HFgFeg)  |
+|                     Amazon SageMaker로 Machine Learning 시작하기                    |    1hr   |  [https://youtu.be/6sdr6dViK2U](https://youtu.be/6sdr6dViK2U)  |
+|                  Amazon SageMaker 모델 추론 서버 활용 방법 - 성능 및 비용 최적화                 |    1hr   | [https://youtu.be/\_-hX-2MqiOg](https://youtu.be/\_-hX-2MqiOg) |
+| Amazon SageMaker Canvas - a Visual, No-Code, AutoML tool for Business Analysts |    1hr   |  [https://youtu.be/2g1m7hKlVw4](https://youtu.be/2g1m7hKlVw4)  |
 
+### Amazon SageMaker로 ML 응용 서비스 만들기
+
+|                        Title                       | Duration |                             Link                             |
+| :------------------------------------------------: | :------: | :----------------------------------------------------------: |
+| Amazon SageMaker로 딥 러닝 기반 이미지 검색 서비스 만들기 - 개념 및 원리 |    1hr   | [https://youtu.be/RkL470RnNZY](https://youtu.be/RkL470RnNZY) |
+|  Amazon SageMaker로 딥 러닝 기반 이미지 검색 서비스 만들기 - 구현 예제  |   15min  | [https://youtu.be/jh4wKJBDNO8](https://youtu.be/jh4wKJBDNO8) |

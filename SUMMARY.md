@@ -19,5 +19,5 @@
 
 ## 머신러닝
 
-* [한 시간 만에 AWS 머신러닝 따라잡기](undefined/aws.md)
-* [Amazon SageMaker 고급 과정](undefined/amazon-sagemaker.md)
+* [Amazon SageMaker 단기 집중 과정](undefined/amazon-sagemaker.md)
+* [Amazon SageMaker 고급 과정](undefined/amazon-sagemaker-1.md)
