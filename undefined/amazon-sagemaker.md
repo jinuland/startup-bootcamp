@@ -1,3 +1,9 @@
+---
+description: >-
+  ML을 시작하시는 분들에게 ML 기초 개념 부터 모델 학습 및 배포까지 빠르고 쉽게 배울 수 있는 자료입니다. Amazon SageMaker
+  고급 과정을 학습하기 전에 먼저 보시면 좋습니다.
+---
+
 # Amazon SageMaker 단기 집중 과정
 
 ### ML 기초 개념 및 Amazon SageMaker를 활용한 ML 서비스 개

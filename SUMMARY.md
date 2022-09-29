@@ -20,4 +20,4 @@
 ## 머신러닝
 
 * [Amazon SageMaker 단기 집중 과정](undefined/amazon-sagemaker.md)
-* [Amazon SageMaker 고급 과정](undefined/amazon-sagemaker-1.md)
+* [Amazon SageMaker 심화 과정](undefined/amazon-sagemaker-1.md)
