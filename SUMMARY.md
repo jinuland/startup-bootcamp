@@ -20,5 +20,5 @@
 ***
 
 * [AI/ML](ai-ml/README.md)
-  * [Amazon SageMaker 단기 집중 과정 (Intensive Course)](ai-ml/amazon-sagemaker-intensive-course.md)
-  * [Amazon SageMaker 심화 과정 (Advanced Course)](ai-ml/amazon-sagemaker-advanced-course.md)
+  * [Amazon SageMaker 단기 집중 과정 (Intensive Course)](ai-ml/amazon-sagemaker.md)
+  * [Amazon SageMaker 심화 과정 (Advanced Course)](ai-ml/amazon-sagemaker-1.md)

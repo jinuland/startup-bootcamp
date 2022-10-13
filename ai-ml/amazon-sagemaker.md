@@ -4,7 +4,7 @@ description: >-
   고급 과정을 학습하기 전에 먼저 보시면 좋습니다.
 ---
 
-# Amazon SageMaker 단기 집중 과정
+# Amazon SageMaker 단기 집중 과정 (Intensive Course)
 
 ### ML 기초 개념 및 Amazon SageMaker를 활용한 ML 서비스 개
 
