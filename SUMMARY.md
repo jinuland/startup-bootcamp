@@ -17,7 +17,8 @@
 
 * [서버리스 데이터 분석 시작하기](aws-ai-ml/analytics.md)
 
-## 머신러닝
+***
 
-* [Amazon SageMaker 단기 집중 과정](undefined/amazon-sagemaker.md)
-* [Amazon SageMaker 심화 과정](undefined/amazon-sagemaker-1.md)
+* [AI/ML](ai-ml/README.md)
+  * [Amazon SageMaker 단기 집중 과정](ai-ml/amazon-sagemaker.md)
+  * [Amazon SageMaker 심화 과정](ai-ml/amazon-sagemaker-1.md)
