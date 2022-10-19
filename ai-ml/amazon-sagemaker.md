@@ -18,7 +18,7 @@ description: >-
 
 ### Amazon SageMaker로 ML 응용 서비스 만들기
 
-|                        Title                       | Duration |                             Link                             |
-| :------------------------------------------------: | :------: | :----------------------------------------------------------: |
-| Amazon SageMaker로 딥 러닝 기반 이미지 검색 서비스 만들기 - 개념 및 원리 |    1hr   | [https://youtu.be/RkL470RnNZY](https://youtu.be/RkL470RnNZY) |
-|  Amazon SageMaker로 딥 러닝 기반 이미지 검색 서비스 만들기 - 구현 예제  |   15min  | [https://youtu.be/jh4wKJBDNO8](https://youtu.be/jh4wKJBDNO8) |
+|                        Title                       | Duration |                             Link                             |                                                                                                                    Description                                                                                                                   |
+| :------------------------------------------------: | :------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Amazon SageMaker로 딥 러닝 기반 이미지 검색 서비스 만들기 - 개념 및 원리 |    1hr   | [https://youtu.be/RkL470RnNZY](https://youtu.be/RkL470RnNZY) |                                Amazon SageMaker의 BYOM(Bring Your Own Model) 기능을 이용해서 이미 학습된 머신 러닝 또는 딥 러닝 모델을 재학습 시켜서 머신 러닝 애플케이션을 만드는 방법을 설명합니다. 특히, TensorFlow ResNet 모델을 이용해서 이미지 검색 서비스를 구축하는 방법을 데모로 보여 드립니다.                               |
+|  Amazon SageMaker로 딥 러닝 기반 이미지 검색 서비스 만들기 - 구현 예제  |   15min  | [https://youtu.be/jh4wKJBDNO8](https://youtu.be/jh4wKJBDNO8) | Amazon SageMaker와 Amazon OpenSearch Service (successor to Amazon Elasticsearch Services)를 사용해서 Deep Learning 모델로 이미지를 분석하고, 검색할 수 있는 서비스를 만드는 방법을 소개해드립니다. 이 세션을 통해서 이미 학습된 모델(Pre-trained Model)을 가지고 이미지를 분석 및 검색 서비스를 구축할 수 있는 방법을 배울 수 있습니다. |
