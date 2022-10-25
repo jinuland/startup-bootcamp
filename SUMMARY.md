@@ -19,7 +19,7 @@
 
 ## AI/ML & Personalization
 
-* [AI/ML](ai-ml-and-personalization/ai-ml/README.md)
-  * [Amazon SageMaker 단기 집중 과정 (Intensive Course)](ai-ml-and-personalization/ai-ml/amazon-sagemaker-intensive-course.md)
-  * [Amazon SageMaker 심화 과정 (Advanced Course)](ai-ml-and-personalization/ai-ml/amazon-sagemaker-advanced-course.md)
+* [AI/ML](ai-ml/README.md)
+  * [Amazon SageMaker 단기 집중 과정 (Intensive Course)](ai-ml/amazon-sagemaker.md)
+  * [Amazon SageMaker 심화 과정 (Advanced Course)](ai-ml/amazon-sagemaker-1.md)
 * [Personalized Recommendations](ai-ml-and-personalization/personalized-recommendations.md)
