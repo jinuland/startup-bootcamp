@@ -18,7 +18,7 @@ AWS Startup Bootcamp Essential은 AWS에 익숙하지 않은 Startup 개발자 �
 
 **Day 2**
 
-* [AWS Basic for Developer](aws-basics-for-developer.md)
+* [AWS Basic for Developer](aws-basics-for-developers.md)
   * AWS를 처음 사용할 때, 미리 알면 좋은 개념과 팁들
 * [Serverless](serverless.md) _<mark style="color:orange;">(실습)</mark>_
   * 서버리스 서비스의 개념과 주요 특징
