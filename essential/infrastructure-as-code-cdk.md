@@ -7,12 +7,12 @@ AWS Startup Bootcamp 마지막 시간으로는 Infrastructure as Code 에서 CDK
 
 ### 1. CDK 세션
 
-{% embed url="https://youtu.be/K0mil4G324c" %}
+{% embed url="https://youtu.be/gKPDyaxg5W0?si=ncjEUAGSxlWA8hnx" %}
 
 ### 2. CDK 실습
 
 아래 실습 링크에서 CDK 실습을 진행해주세요.&#x20;
 
-* [CDK 실습 Link](https://cdk-korean-v1.d3teb0b13vz8ds.amplifyapp.com)
+* [CDK 실습 Link](https://catalog.us-east-1.prod.workshops.aws/workshops/a041bcbb-ef27-461f-901f-fb30585055bf)
 
 본 과정에서는 실습을 Writing constructs 까지 진행합니다. 하지만 실습 전체를 진행하시면 CDK에 대해 보다 많은 부분을 경험해보실 수 있습니다.
