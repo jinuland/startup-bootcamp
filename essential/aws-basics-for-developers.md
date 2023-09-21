@@ -1,6 +1,6 @@
 # AWS 개발자 오리엔테이션
 
-개발자 분들이 AWS를 처음 사용할 때 알고 있으면 유용한 팁들에 대해 이야기 합니다.
+개발자 분들이 AWS를 처음 사용할 때 알고 있으면 유용한 팁에 대해 이야기 합니다.
 
 {% embed url="https://youtu.be/fm1ZfY7504E?si=l4q2HGKfqXFTEmuq" %}
 
@@ -10,5 +10,5 @@
 * **AWS Toolkits**
 * **AWS SDK**
 * **Slack 알람 보내기 - AWS Chatbot**
-* **AWS   활용하는 법**
+* **AWS에서 개발하면서 AWS 문서들  활용하는 법**
 
