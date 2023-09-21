@@ -6,7 +6,7 @@
 
 * [Bootcamp Essential 과정 소개](essential/undefined.md)
 * [AWS Core Services](essential/aws.md)
-* [AWS Basics for Developers](essential/aws-basics-for-developers.md)
+* [AWS 개발자 오리엔테이션](<essential/aws (1).md>)
 * [Serverless](essential/serverless.md)
 * [Container](essential/container.md)
 * [DevOps - CICD](essential/devops-cicd.md)
