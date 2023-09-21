@@ -4,7 +4,7 @@
 
 ## Essential
 
-* [Bootcamp Essential 과정 소개](essential/undefined.md)
+* [Developer Bootcamp 과정 소개](essential/developer-bootcamp.md)
 * [AWS 개발자 오리엔테이션](essential/aws-basics-for-developers.md)
 * [AWS Core Services](essential/aws.md)
 * [Serverless](essential/serverless.md)
