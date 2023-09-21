@@ -17,5 +17,5 @@ Serverless 서비스를 활용하면 보다 빠르게, 효율적으로 시스템
 
 [Serverless 실습](https://catalog.us-east-1.prod.workshops.aws/workshops/4923c0ff-6470-46e1-9884-7c6ee63e7136) 에서는 세션을 통해 알아본 Lambda, API Gateway, SQS, SNS, EventBridge 를 사용해서 간단한 웹 애플리케이션을 직접 만들어 봅니다.
 
-[SAM 실습](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/ko-KR) 통해서는 서버리스 애플리케이션을 SAM 으로 개발하고 배포하는 방법에 대해 살펴봅니다. 이번 실습은 세번째 단원인 Make changes 까지 진행합니다. 하지만 SAM Pipeline 에 대해서도 궁금하다면 나머지 실습을 추가로 진행해도 좋습니다.
+[SAM 실습](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/ko-KR) 에서는 서버리스 애플리케이션을 SAM 으로 개발하고 배포하는 방법에 대해 살펴봅니다. 이번 실습은 세번째 단원인 Make changes 까지 진행합니다. 하지만 SAM Pipeline 에 대해서도 궁금하다면 나머지 실습을 추가로 진행해도 좋습니다.
 
