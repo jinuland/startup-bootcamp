@@ -31,7 +31,7 @@ AWS Developer Startup Bootcamp은 AWS에 익숙하지 않은 Startup 개발자 �
 
 **Day 3**
 
-* [Container](container.md) _<mark style="color:orange;">(실습 포함)</mark>_
+* [Container](container/) _<mark style="color:orange;">(실습 포함)</mark>_
   * Amazon EKS, ECS, Fargate 개념과 주요 특징
   * 컨테이너 애플리케이션 운영 시 알아야 할 것들
   * 쉽게 컨테이너 시작하기
