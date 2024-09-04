@@ -2,20 +2,22 @@
 
 * [Home](README.md)
 
-## Essential
+## Developer Essential
 
-* [Container](essential/container/README.md)
-  * [Amazon ECS](essential/container/amazon-ecs.md)
-  * [Amazon EKS](essential/container/amazon-eks.md)
-* [Developer Bootcamp 과정 소개](essential/developer-bootcamp.md)
-* [AWS 개발자 오리엔테이션](essential/aws-basics-for-developers.md)
-* [AWS Core Services](essential/aws.md)
-* [Serverless](essential/serverless.md)
-* [DevOps - CICD](essential/devops-cicd.md)
-* [DevOps - Observability](essential/devops-observability.md)
-* [Infrastructure as Code - CDK](essential/infrastructure-as-code-cdk.md)
+* [Developer Bootcamp 과정 소개](developer-essential/developer-bootcamp.md)
+* [AWS 개발자 오리엔테이션](developer-essential/aws.md)
+* [AWS Core Services](developer-essential/aws-core-services.md)
+* [Serverless](developer-essential/serverless.md)
+* [DevOps - CICD](developer-essential/devops-cicd.md)
+* [DevOps - Observability](developer-essential/devops-observability.md)
+* [Infrastructure as Code - CDK](developer-essential/infrastructure-as-code-cdk.md)
 
-## 데이터 분석 <a href="#analytics" id="analytics"></a>
+## Container
+
+* [Amazon ECS](container/amazon-ecs.md)
+* [Amazon EKS](container/amazon-eks.md)
+
+## Data Analytics <a href="#analytics" id="analytics"></a>
 
 * [서버리스 데이터 분석 시작하기](aws-ai-ml/analytics.md)
 

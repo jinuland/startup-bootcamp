@@ -12,13 +12,13 @@ AWS Developer Startup Bootcamp은 AWS에 익숙하지 않은 Startup 개발자 �
 
 #### Day 1
 
-* [AWS Core Services](aws.md) _<mark style="color:orange;">(실습 포함)</mark>_
+* [AWS Core Services](aws-core-services.md) _<mark style="color:orange;">(실습 포함)</mark>_
   * AWS 에서 개발하기 위해 기본적으로 알고 있어야 할 내용들
   * Network, Compute, Database, Storage, 비용 최적화
 
 **Day 2**
 
-* [AWS 개발자 오리엔테이션](aws-basics-for-developers.md)
+* [AWS 개발자 오리엔테이션](aws.md)
   * AWS를 처음 사용할 때, 미리 알면 좋은 개념과 팁들
 * [Serverless](serverless.md) _<mark style="color:orange;">(실습 포함)</mark>_
   * 서버리스 서비스의 개념과 주요 특징
@@ -31,7 +31,7 @@ AWS Developer Startup Bootcamp은 AWS에 익숙하지 않은 Startup 개발자 �
 
 **Day 3**
 
-* [Container](container/) _<mark style="color:orange;">(실습 포함)</mark>_
+* [Container](broken-reference) _<mark style="color:orange;">(실습 포함)</mark>_
   * Amazon EKS, ECS, Fargate 개념과 주요 특징
   * 컨테이너 애플리케이션 운영 시 알아야 할 것들
   * 쉽게 컨테이너 시작하기
