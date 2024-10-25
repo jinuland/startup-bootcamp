@@ -11,6 +11,7 @@
 * [DevOps - CICD](developer-essential/devops-cicd.md)
 * [DevOps - Observability](developer-essential/devops-observability.md)
 * [Infrastructure as Code - CDK](developer-essential/infrastructure-as-code-cdk.md)
+* [AWS Amplify Gen2](developer-essential/aws-amplify-gen2.md)
 
 ## Container
 
